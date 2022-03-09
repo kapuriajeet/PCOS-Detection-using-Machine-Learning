@@ -30,22 +30,22 @@ def main():
     st.title('PCOS Prediction using Machine Learning Web App')
 
     # Getting inputs from the user
-    age = st.text_input('Please Mention your Age')
-    stresslevels = st.text_input(
+    age = st.number_input('Please Mention your Age')
+    stresslevels = st.number_input(
         'Give your Stress levels ranging from 1 to 5(1 => Lowest, 5 => Highest)')
-    sleepduration = st.text_input('How many hours do you sleep at night ? :')
-    sleeprating = st.text_input(
+    sleepduration = st.number_input('How many hours do you sleep at night ? :')
+    sleeprating = st.number_input(
         'Rate your daily sleep from 1 to 5(1 => bad, 5 => Good)')
-    smoking = st.text_input(
+    smoking = st.number_input(
         'Do you Smoke? (If yes mention 1 and if No mention 0) :')
-    alcohol = st.text_input(
+    alcohol = st.number_input(
         'Do you drink Alcohol? (If yes mention 1 and if No mention 0) :')
-    timebetweenperiods = st.text_input("Time between your periods: ")
-    delayInPeriods = st.text_input("Delay in Periods: ")
-    emotionalStatus = st.text_input("Emotional Status: ")
-    MalePattern_you = st.text_input(
+    timebetweenperiods = st.number_input("Time between your periods: ")
+    delayInPeriods = st.number_input("Delay in Periods: ")
+    emotionalStatus = st.number_input("Emotional Status: ")
+    MalePattern_you = st.number_input(
         "Signs of Male Pattern(If yes then write 1 or else write 0): ")
-    pms = st.text_input("Premenstrual Syndrome ? : ")
+    pms = st.number_input("Premenstrual Syndrome ? : ")
 
     # Code for prediction
     diagnosis = ''

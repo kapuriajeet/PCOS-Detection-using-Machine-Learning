@@ -1,0 +1,80 @@
+age,residence_area,job_type,job_physical_activity,stresslevels,sleepduration,sleeprating,sleepTimings,exercisehours,junkfood,smoking,alcohol,sedentaryage,period_startage,periodstatus,timebetweenperiods,periodDuration,pms,MalePattern_you,delayInPeriods,periodstatus_heredity,MalePattern_heredity,sufferingFrompcos,currentMedications,milkType,milkQuantity,emotionalStatus,exerciseAfterDiagnosis,consumptionOfOrganicFood,bmi
+28,Urban Area,Working Women,No,4,7,3,9 pm- 10pm,3 - 5,3 - 5,No,No,15,12-14,No,3,6 - 8 Days,No,No,5,No,A little,Yes,"PCOS/ PCOD, Birth Control",Cow,2,Yes,Yes,Yes,Overweight
+21,Urban Area,Student,No,4,7,4,11pm - 12 am,1- 2,3 - 5,No,No,14,12-14,No (Irregular and Absent Periods),2,6 - 8 Days,Yes,Yes,3,No,Yes,Yes,PCOS/ PCOD,Cow,1,Yes,Yes,Maybe,Overweight
+21,Urban Area,Student,No,3,7,4,1 am - 2 am,5 +,1- 2,No,No,16,14-16,Yes,1,3 - 5 Days,Sometimes,No,2,No,No,No,No,Buffalo,1,No,Not Applicable,Yes,Normal
+23,Urban Area,Student,A little,3,6,3,1 am - 2 am,1- 2,1- 2,No,No,20,14-16,Yes,1,3 - 5 Days,Yes,No,4,Sometimes,No,No,No,Buffalo,1,Yes,Not Applicable,Maybe,Underweight
+21,Urban Area,Student,A little,3,5,3,9 pm- 10pm,3 - 5,1- 2,No,No,Continued,12-14,Yes,0,3 - 5 Days,Yes,No,0,Sometimes,No,No,No,Buffalo,1,Yes,Not Applicable,Maybe,Normal
+23,Urban Area,Student,A little,3,6,3,10 pm-11 pm,1- 2,1- 2,No,No,20,14-16,Yes,1,3 - 5 Days,No,No,4,Sometimes,No,No,No,Buffalo,1,Yes,Not Applicable,Maybe,Underweight
+20,Urban Area,Student,No,2,8,4,11pm - 12 am,1- 2,0,No,No,Continued,12-14,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Buffalo,1,No,Not Applicable,Yes,Normal
+22,Urban Area,Student,No,4,6,3,1 am - 2 am,0,1- 2,No,No,15,12-14,Yes,1,3 - 5 Days,Yes,No,1,Sometimes,No,No,No,Cow,1,Yes,Not Applicable,Maybe,Underweight
+21,Urban Area,Student,No,1,6,5,10 pm-11 pm,1- 2,1- 2,No,No,17,12-14,Sometimes,1,3 - 5 Days,No,No,3,No,No,Yes,No,Cow,2,No,Yes,Yes,Underweight
+20,Urban Area,Student,No,3,7,4,9 pm- 10pm,1- 2,1- 2,No,No,15,12-14,Yes,1,3 - 5 Days,Yes,A little,1,No,No,No,No,Cow,2,No,Not Applicable,Yes,Normal
+21,Urban Area,Student,No,3,7,3,1 am - 2 am,1- 2,3 - 5,No,No,19,14-16,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0.5,No,Not Applicable,No,Normal
+20,Semi-Urban Area,Student,No,1,7,3,12 am - 1 am,1- 2,3 - 5,No,No,15,12-14,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Cow,1,Yes,Not Applicable,Maybe,Normal
+22,Urban Area,Student,No,4,7,3,12 am - 1 am,1- 2,3 - 5,No,No,16,14-16,Yes,0,3 - 5 Days,Yes,A little,0,No,No,No,No,Buffalo,2,No,Not Applicable,Yes,Obese
+51,Urban Area,Housewife,No,1,8,3,1 am - 2 am,3 - 5,1- 2,No,No,18,12-14,Yes,0,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0.5,No,Not Applicable,No,Obese
+21,Semi-Urban Area,Student,No,2,7,4,12 am - 1 am,3 - 5,1- 2,No,No,15,10-12,20,1,3 - 5 Days,Sometimes,A little,2,No,No,Yes,No,Buffalo,0.5,No,No,Yes,Normal
+21,Urban Area,Working Women,No,3,7,4,12 am - 1 am,5 +,3 - 5,No,No,Continued,14-16,Yes,0,3 - 5 Days,Yes,A little,0,No,No,No,No,Cow,3,No,No,No,Normal
+21,Urban Area,Student,No,4,7,3,12 am - 1 am,3 - 5,3 - 5,No,No,Continued,14-16,Yes,1,6 - 8 Days,Yes,No,0.5,No,No,No,No,Buffalo,1,No,Not Applicable,Maybe,Underweight
+22,Urban Area,Student,No,1,8,5,12 am - 1 am,0,1- 2,No,No,No,12-14,Yes,1,3 - 5 Days,Yes,Yes,1,No,No,No,No,Cow,250,No,Not Applicable,Maybe,Normal
+21,Urban Area,Student,A little,4,7,4,1 am - 2 am,0,5 +,No,No,13,10-12,No (Irregular and Absent Periods),4,3 - 5 Days,Sometimes,No,5,Sometimes,No,Yes,PCOS/ PCOD,Cow,1,Yes,No,No,Obese
+21,Urban Area,Student,No,4,8,4,1 am - 2 am,1- 2,3 - 5,No,No,12,12-14,Sometimes,1,6 - 8 Days,Sometimes,A little,1,No,No,Yes,No,Buffalo,1,No,Yes,Yes,Obese
+16,Urban Area,Student,No,3,6,2,Later than 2 am,0,5 +,No,No,14,12-14,Yes,0,3 - 5 Days,No,No,6,No,No,No,No,Cow,1,Yes,No,Maybe,Normal
+21,Urban Area,Working Women,No,4,7,4,12 am - 1 am,3 - 5,1- 2,No,No,15,10-12,Yes,1,3 - 5 Days,Sometimes,No,2,No,No,No,No,Buffalo,1,Yes,Not Applicable,Maybe,Overweight
+28,Semi-Urban Area,Working Women,No,3,7,3,11pm - 12 am,3 - 5,1- 2,No,Maybe,15,12-14,Sometimes,1,3 - 5 Days,Sometimes,No,2,No,No,No,No,Buffalo,2,Yes,No,Maybe,Overweight
+41,Urban Area,Working Women,No,4,7,3,11pm - 12 am,5 +,1- 2,No,No,Continued,10-12,Sometimes,1,3 - 5 Days,No,No,2,No,No,No,Thyronorm,Buffalo,1,Yes,Yes,Maybe,Normal
+28,Rural Area,Working Women,A little,2,6,3,1 am - 2 am,0,1- 2,No,No,18,12-14,Sometimes,1,3 - 5 Days,Yes,A little,2,Sometimes,No,No,No,Buffalo,2,Yes,Not Applicable,Maybe,Overweight
+21,Urban Area,Student,Yes,4,6,3,1 am - 2 am,0,3 - 5,No,No,14,14-16,Yes,0,6 - 8 Days,Yes,Yes,1,No,No,No,No,Cow,0.5,Yes,Not Applicable,No,Underweight
+21,Urban Area,Student,A little,3,7,4,10 pm-11 pm,3 - 5,0,No,No,15,10-12,Sometimes,1,3 - 5 Days,Sometimes,No,3,No,Yes,Yes,No,Buffalo,2,No,Not Applicable,No,Overweight
+21,Urban Area,Student,No,3,8,4,10 pm-11 pm,1- 2,0,No,No,15,12-14,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0,No,Not Applicable,Maybe,Normal
+20,Urban Area,Student,No,3,8,5,11pm - 12 am,3 - 5,1- 2,No,No,16,10-12,Yes,1,3 - 5 Days,Sometimes,No,1,No,No,No,No,Cow,1,No,Not Applicable,Maybe,Underweight
+21,Urban Area,Student,A little,4,7,4,11pm - 12 am,3 - 5,3 - 5,No,No,Continued,12-14,Yes,0,3 - 5 Days,Yes,A little,1,Sometimes,A little,No,No,Buffalo,2,Yes,Not Applicable,No,Obese
+21,Urban Area,Student,A little,3,8,4,12 am - 1 am,1- 2,3 - 5,No,No,16,12-14,Yes,1,6 - 8 Days,Sometimes,No,2,No,No,No,No,Cow,1,Yes,Not Applicable,No,Underweight
+22,Urban Area,Student,No,2,7,4,12 am - 1 am,1- 2,1- 2,No,No,Continued,10-12,Sometimes,1,3 - 5 Days,Yes,No,2,Sometimes,No,No,No,Cow,1,No,Not Applicable,Maybe,Normal
+20,Urban Area,Student,No,1,8,4,12 am - 1 am,1- 2,0,No,No,15,10-12,Yes,1,3 - 5 Days,Sometimes,Yes,0.5,No,Yes,No,No,Cow,1,No,Not Applicable,Maybe,Normal
+22,Urban Area,Student,No,2,8,4,1 am - 2 am,1- 2,0,No,No,Continued,12-14,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,Thyronorm,Cow,0,Yes,Not Applicable,No,Normal
+21,Urban Area,Student,No,3,6,4,9 pm- 10pm,3 - 5,1- 2,No,No,20,12-14,Yes,1,3 - 5 Days,No,No,1.5,No,No,No,No,Buffalo,1,No,Not Applicable,Maybe,Overweight
+22,Urban Area,Student,No,3,7,4,12 am - 1 am,0,1- 2,No,No,16,10-12,Yes,1,3 - 5 Days,No,No,0,No,No,No,No,Buffalo,2,Yes,No,Yes,Obese
+21,Urban Area,Student,A little,4,6,3,Later than 2 am,1- 2,5 +,No,No,17,12-14,No (Irregular and Absent Periods),2,3 - 5 Days,Yes,Yes,5,No,No,Yes,PCOS/ PCOD,Cow,1,Yes,Yes,Yes,Normal
+28,Urban Area,Working Women,A little,3,6,3,12 am - 1 am,1- 2,1- 2,No,No,16,10-12,Yes,1,3 - 5 Days,No,No,1,No,No,No,No,Cow,1,No,Not Applicable,No,Overweight
+47,Urban Area,Housewife,Yes,2,6,3,Later than 2 am,1- 2,1- 2,No,No,Continued,10-12,Yes,1,3 - 5 Days,No,A little,2,No,A little,No,No,Buffalo,1,No,Not Applicable,No,Overweight
+22,Semi-Urban Area,Student,No,3,7,4,1 am - 2 am,1- 2,3 - 5,No,No,15,12-14,Sometimes,1,3 - 5 Days,Sometimes,No,1.5,No,No,Yes,"PCOS/ PCOD, Thyronorm",Buffalo,1,No,Yes,No,Obese
+22,Urban Area,Student,A little,2,7,3,9 pm- 10pm,3 - 5,1- 2,No,No,15,10-12,Yes,1,3 - 5 Days,Yes,A little,1.5,No,No,No,No,Cow,1,No,Not Applicable,Maybe,Overweight
+21,Urban Area,Student,No,3,7,3,1 am - 2 am,3 - 5,1- 2,No,No,14,12-14,Sometimes,1,3 - 5 Days,Yes,No,2,Yes,No,Yes,No,Buffalo,2,Yes,Yes,Yes,Overweight
+22,Urban Area,Student,A little,4,6,4,1 am - 2 am,3 - 5,0,No,No,12,12-14,No (Irregular and Absent Periods),2,6 - 8 Days,No,No,6,No,No,Yes,PCOS/ PCOD,Cow,1,Yes,Yes,Yes,Overweight
+22,Urban Area,Student,A little,4,8,5,9 pm- 10pm,3 - 5,1- 2,No,No,10,12-14,Yes,1,3 - 5 Days,Sometimes,No,0,No,No,No,No,Buffalo,2,Yes,Not Applicable,Maybe,Normal
+22,Semi-Urban Area,Student,Yes,4,7,4,9 pm- 10pm,1- 2,1- 2,No,No,Continued,10-12,Yes,0,3 - 5 Days,Sometimes,No,0,No,No,No,None,Cow,1,Yes,Not Applicable,Maybe,Overweight
+33,Urban Area,Working Women,No,3,7,5,9 pm- 10pm,0,1- 2,No,No,No,14-16,Yes,3,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,3,Yes,Not Applicable,No,Obese
+20,Urban Area,Student,No,3,7,3,Later than 2 am,1- 2,0,No,No,16,12-14,Yes,1,3 - 5 Days,Yes,A little,3,Yes,No,No,No,Buffalo,1,No,Not Applicable,No,Underweight
+21,Semi-Urban Area,Student,No,3,6,3,11pm - 12 am,0,0,No,No,16,10-12,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Cow,0,Yes,Not Applicable,Maybe,Overweight
+21,Urban Area,Student,No,5,7,5,1 am - 2 am,0,0,No,No,No,12-14,Yes,0,3 - 5 Days,No,Yes,1.2,No,Yes,No,No,Cow,1,Yes,No,No,Normal
+47,Urban Area,Housewife,A little,4,7,4,11pm - 12 am,1- 2,0,No,No,12,14-16,Yes,0,3 - 5 Days,Yes,No,2,No,No,No,No,Cow,1,Yes,Not Applicable,Maybe,Overweight
+21,Urban Area,Student,A little,4,8,4,12 am - 1 am,1- 2,1- 2,No,No,14,12-14,Yes,1,3 - 5 Days,Sometimes,No,0,No,A little,No,No,Cow,1,Yes,Not Applicable,Maybe,Obese
+22,Urban Area,Working Women,No,3,9,5,11pm - 12 am,0,1- 2,No,No,16,10-12,Yes,1,Less than 3 Days,Yes,No,0,No,No,No,"No, None",Don't consume any,0,Yes,Not Applicable,Maybe,Underweight
+24,Urban Area,Working Women,No,3,7,4,11pm - 12 am,3 - 5,3 - 5,No,No,20,12-14,Yes,1,3 - 5 Days,No,No,7,No,No,No,None,Cow,2,No,No,No,Normal
+22,Urban Area,Student,A little,4,7,3,12 am - 1 am,0,1- 2,No,No,14,12-14,No (Irregular and Absent Periods),4,3 - 5 Days,Yes,Yes,4,Sometimes,No,Yes,Birth Control,Buffalo,1,Yes,No,Maybe,Normal
+22,Urban Area,Student,No,3,7,4,11pm - 12 am,1- 2,1- 2,No,No,18,12-14,Sometimes,1,6 - 8 Days,Yes,No,1.5,No,A little,No,No,Cow,1,No,Not Applicable,No,Obese
+26,Urban Area,Housewife,A little,3,7,4,11pm - 12 am,3 - 5,1- 2,No,No,25,12-14,Yes,1,3 - 5 Days,Yes,No,0,No,No,No,No,Buffalo,1,No,Not Applicable,Maybe,Overweight
+22,Urban Area,Not Working,No,4,7,3,11pm - 12 am,1- 2,0,No,No,15,12-14,Yes,1,Less than 3 Days,Yes,A little,2,No,No,No,No,Cow,1,Yes,Not Applicable,No,Overweight
+23,Urban Area,Not Working,No,4,6,3,1 am - 2 am,5 +,3 - 5,No,No,19,10-12,Sometimes,1,Less than 3 Days,Yes,Yes,2,Sometimes,A little,Yes,No,Buffalo,1,Yes,Yes,Maybe,Overweight
+24,Urban Area,Student,No,4,8,5,1 am - 2 am,0,1- 2,No,No,14,10-12,Yes,0,3 - 5 Days,Sometimes,No,0,No,No,No,"No, None",Buffalo,1,No,Not Applicable,Yes,Normal
+22,Urban Area,Working Women,No,4,6,3,11pm - 12 am,1- 2,0,No,No,22,12-14,Yes,1,3 - 5 Days,Yes,A little,1,No,No,No,None,Cow,1,Yes,Not Applicable,Yes,Overweight
+22,Semi-Urban Area,Student,A little,4,7,4,11pm - 12 am,1- 2,1- 2,No,No,Continued,12-14,Yes,0,3 - 5 Days,Yes,No,0,No,No,No,None,Buffalo,1,Yes,Not Applicable,Yes,Normal
+22,Urban Area,Working Women,No,3,7,3,11pm - 12 am,3 - 5,1- 2,No,No,19,10-12,Yes,1,3 - 5 Days,Yes,No,2,No,No,Yes,No,Buffalo,1,No,Yes,Yes,Normal
+22,Urban Area,Working Women,No,4,6,3,1 am - 2 am,0,1- 2,No,No,17,12-14,Yes,0,Less than 3 Days,Sometimes,A little,0,No,A little,No,None,Cow,0,Yes,Not Applicable,No,Obese
+22,Urban Area,Housewife,A little,3,7,3,1 am - 2 am,1- 2,1- 2,No,No,18,12-14,Yes,1,6 - 8 Days,Sometimes,A little,1,No,No,No,No,Cow,1,No,Not Applicable,No,Normal
+23,Urban Area,Student,No,3,7,4,11pm - 12 am,3 - 5,1- 2,No,No,18,12-14,Yes,1,3 - 5 Days,Sometimes,No,0,Sometimes,No,No,None,Buffalo,2,Yes,Not Applicable,No,Underweight
+49,Urban Area,Working Women,Yes,1,6,4,11pm - 12 am,3 - 5,0,No,No,Continued,14-16,Yes,1,3 - 5 Days,No,No,2,No,No,No,No,Cow,0,No,No,Maybe,Overweight
+20,Semi-Urban Area,Student,A little,4,7,4,12 am - 1 am,3 - 5,1- 2,No,No,17,12-14,Yes,1,3 - 5 Days,Sometimes,No,1,No,No,No,No,Cow,1,No,Not Applicable,Yes,Overweight
+21,Urban Area,Student,A little,4,9,3,11pm - 12 am,1- 2,1- 2,No,No,16,12-14,Yes,1,6 - 8 Days,Yes,No,0,No,No,No,No,Buffalo,1,Yes,Not Applicable,Maybe,Underweight
+19,Semi-Urban Area,Student,No,4,8,4,12 am - 1 am,1- 2,1- 2,No,Yes,14,12-14,No (Irregular and Absent Periods),1,3 - 5 Days,Yes,A little,2.5,Sometimes,No,No,No,Buffalo,2,Yes,Not Applicable,Maybe,Overweight
+22,Semi-Urban Area,Student,No,3,6,5,11pm - 12 am,1- 2,3 - 5,No,No,18,12-14,Yes,1,3 - 5 Days,Sometimes,No,15,No,No,No,None,Cow,300,No,Not Applicable,Yes,Underweight
+21,Urban Area,Student,No,4,8,5,12 am - 1 am,3 - 5,3 - 5,No,No,18,12-14,Sometimes,1,3 - 5 Days,Sometimes,No,2,Yes,No,No,No,Buffalo,1.5,Yes,Not Applicable,No,Overweight
+22,Urban Area,Student,Yes,2,8,4,12 am - 1 am,5 +,1- 2,No,Yes,Continued,12-14,Yes,0,3 - 5 Days,Sometimes,No,1,No,No,No,None,Buffalo,1,Yes,Not Applicable,No,Normal
+24,Urban Area,Student,Yes,4,7,3,12 am - 1 am,3 - 5,1- 2,Yes,No,14,14-16,Yes,1,3 - 5 Days,Yes,A little,2,Sometimes,No,No,None,Cow,1,Yes,Not Applicable,No,Normal
+21,Urban Area,Student,No,5,6,3,1 am - 2 am,0,3 - 5,No,No,17,12-14,Yes,0,3 - 5 Days,Yes,Yes,0,No,No,Yes,No,Cow,2,Yes,Yes,Yes,Normal
+22,Semi-Urban Area,Student,Yes,4,5,3,1 am - 2 am,1- 2,5 +,No,No,17,12-14,No (Irregular and Absent Periods),1,3 - 5 Days,Yes,A little,1,No,No,Yes,No,Cow,5,Yes,No,Maybe,Normal
+22,Urban Area,Student,No,3,6,3,1 am - 2 am,3 - 5,1- 2,No,Maybe,Continued,12-14,Sometimes,0,3 - 5 Days,Yes,A little,1,No,No,No,Blood Pressure,Cow,1,No,Not Applicable,Yes,Normal
+22,Urban Area,Student,Yes,4,7,5,12 am - 1 am,1- 2,1- 2,No,No,Continued,12-14,Sometimes,1,9 Days +,No,No,1.5,Sometimes,No,No,No,Cow,1,Yes,Not Applicable,Maybe,Obese
+47,Urban Area,Working Women,No,2,8,3,1 am - 2 am,1- 2,0,No,No,12,14-16,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Buffalo,1,No,Not Applicable,Maybe,Normal
+47,Urban Area,Housewife,No,1,8,1,1 am - 2 am,3 - 5,0,No,No,12,12-14,Yes,1,3 - 5 Days,Yes,No,1,No,No,No,No,Buffalo,1,No,Not Applicable,Maybe,Normal

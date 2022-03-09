@@ -41,11 +41,12 @@ def main():
     alcohol = st.number_input(
         'Do you drink Alcohol? (If yes mention 1 and if No mention 0) :')
     timebetweenperiods = st.number_input("Time between your periods: ")
-    delayInPeriods = st.number_input("Delay in Periods: ")
-    emotionalStatus = st.number_input("Emotional Status: ")
+    delayInPeriods = st.number_input("Delay in Periods (In Days): ")
+    emotionalStatus = st.number_input("Emotional Status (answer 1 or 0): ")
     MalePattern_you = st.number_input(
         "Signs of Male Pattern(If yes then write 1 or else write 0): ")
-    pms = st.number_input("Premenstrual Syndrome ? : ")
+    pms = st.number_input(
+        "Premenstrual Syndrome ? (if yes => 1 or else => 0): ")
 
     # Code for prediction
     diagnosis = ''

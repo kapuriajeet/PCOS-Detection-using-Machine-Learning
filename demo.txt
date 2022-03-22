@@ -4,11 +4,11 @@
 'sleeprating', 
 'smoking',
 'alcohol', 
-'timebetweenperiods', 
 'delayInPeriods', 
 'emotionalStatus', 
 'MalePattern_you',
 'pms'
 
 21, 3, 7, 4, 0, 0, 2, 0, 0, 1 => 0
-28, 4, 7, 3, 0, 0, 3, 5, 1, 1, 0 => 1
+28, 4, 7, 3, 0, 0, 5, 1, 1, 0 => 1
+21, 4, 7, 4, 0, 0, 3, 1, 1, 1 => 1

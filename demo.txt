@@ -1,14 +1,14 @@
-'age', 
+'age',
 'stresslevels', 
 'sleepduration', 
 'sleeprating', 
 'smoking',
 'alcohol', 
-'delayInPeriods', 
-'emotionalStatus', 
+'delayInPeriods',  
+'periodstatus', 
 'MalePattern_you',
 'pms'
 
-21, 3, 7, 4, 0, 0, 2, 0, 0, 1 => 0
-28, 4, 7, 3, 0, 0, 5, 1, 1, 0 => 1
-21, 4, 7, 4, 0, 0, 3, 1, 1, 1 => 1
+21, 3, 7, 4, 0, 0, 2, 1, 0, 1 => NO PCOS
+28, 4, 7, 3, 0, 0, 5, 0, 0, 0 => PCOS
+21, 4, 7, 4, 0, 0, 3, 0, 1, 1 => PCOS
